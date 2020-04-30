@@ -1,4 +1,4 @@
-let colors = ["red","white","blue"];
+let colors = [1,2,3];
 let students = [
     { name: "Andrew", favNumber: 27},
     { name: "Jeff", favNumber: 5},
